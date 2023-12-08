@@ -1,0 +1,6 @@
+open Anaconda prompt
+type 
+jupyter notebook --notebook-dir=C:\Users\nhung\nhung\Research\analog-phonons\Gates_Lab_Suite_hybrid
+
+to quit jupyter, type Ctrl+C
+%HOMEPATH%
